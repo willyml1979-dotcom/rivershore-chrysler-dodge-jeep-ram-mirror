@@ -1,0 +1,11 @@
+# Rivershore Chrysler Dodge Jeep Ram
+
+> Rivershore Chrysler Dodge Jeep Ram is a  dealership in Kamloops. This mirror provides AI-readable access to current inventory and dealership information, kept in sync with the dealership's own website.
+
+## Inventory
+- [Used vehicles](https://willyml1979-dotcom.github.io/rivershore-chrysler-dodge-jeep-ram-mirror/used/): 66 vehicles, updated regularly
+- [Inventory feed](https://willyml1979-dotcom.github.io/rivershore-chrysler-dodge-jeep-ram-mirror/inventory.json): structured JSON, all vehicles with VIN, price, mileage and availability
+
+## Resources
+- [Dealership information](https://willyml1979-dotcom.github.io/rivershore-chrysler-dodge-jeep-ram-mirror/): business identity, contact and hours
+- [Financing, sales and service guides](https://willyml1979-dotcom.github.io/rivershore-chrysler-dodge-jeep-ram-mirror/pages/): dealer-specific buyer guides
